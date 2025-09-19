@@ -1,5 +1,8 @@
-for i in range(10):
-    print("Hola")
+for i in range(3):
+    for i in range(2):
+      print("Hola")
 
 nombre = "Mundo"
 print("Hola"+nombre)
+
+print("Hola soy Luis")
