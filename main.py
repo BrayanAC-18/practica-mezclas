@@ -18,3 +18,5 @@ print("Otra mezcla para juanfe")
 print("Otra mezcla para juanfe")
 print("Ahora si es para luis? 🙄")
 print("Otra mezcla para brayan")
+suma = 1+2
+print(suma)
