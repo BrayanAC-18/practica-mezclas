@@ -8,3 +8,6 @@ print("Hola"+nombre)
 print("soy felipe")
 nombre =nombre + " ,soy Brayan"
 print("Hola soy Luis")
+
+for i in range(3):
+    print("Hola")
