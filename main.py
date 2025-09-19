@@ -18,3 +18,5 @@ print("segundo nivel")
 print("tercer nivel")
 print("cuartonivel")
 print("cuartonivel")
+
+suma = 1+5
